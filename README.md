@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena Durcan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [https://senadurcan.github.io/](https://senadurcan.github.io/)
 
